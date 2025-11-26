@@ -12,7 +12,7 @@ import argparse
 
 # Configurar argumentos de línea de comandos
 parser = argparse.ArgumentParser(description='UEX Screensaver')
-parser.add_argument('--step', type=int, default=4, help='Step size for movement')
+parser.add_argument('--step', type=int, default=5, help='Step size for movement')
 parser.add_argument('--queue', type=int, default=5, help='Maximum queue size for images')
 parser.add_argument('--min', type=int, default=2278300, help='Minimum userid for random generation')
 parser.add_argument('--max', type=int, default=2278600, help='Maximum userid for random generation')

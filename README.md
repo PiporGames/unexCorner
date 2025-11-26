@@ -8,7 +8,7 @@ El salvapantallas se conecta al campus universitario y recupera una imagen aleat
 
 ## Información
 
-- `--step <valor>`: Define velocidad de movimiento. Por defecto: `4`.
+- `--step <valor>`: Define velocidad de movimiento. Por defecto: `5`.
 - `--queue <valor>`: Establece el tamaño del buffer de imagenes. Por defecto:`5`.
 - `--min <valor>`: Especifica el ID de usuario mínimo para la generación aleatoria. Por defecto: `2278300`.
 - `--max <valor>`: Especifica el ID de usuario máximo para la generación aleatoria. Por defecto: `2278600`.
